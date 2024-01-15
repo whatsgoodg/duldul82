@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.14.2
+    created: "2024-01-15T03:04:00.351217962Z"
+    description: Nginx Standard Template for duldul82.com
+    digest: f6ae8313e1bd3dbaa90cb41dda08bb4fb64ed4abfb8524830af8e2a0b30225aa
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-0.9.0.tgz
+    version: 0.9.0
+generated: "2024-01-15T03:04:00.350813091Z"
